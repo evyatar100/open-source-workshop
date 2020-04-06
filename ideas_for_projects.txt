@@ -1,0 +1,4 @@
+1.
+Deck of cards - a general platform to play card games. we will built the framework for cardgames, and other people will be able to build spefic games. the frame work with include basic methodologis that a lot of card games have (turns, packs, places to put the cards, ways to move cads between places, suffles, face up-dawn) and all of the internet stuff.
+
+2.
